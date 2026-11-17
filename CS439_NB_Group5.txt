@@ -1,0 +1,26 @@
+Libraries Used:
+- pandas
+- numpy
+- matplotlib
+- sklearn
+- seaborn
+
+Modules Used:
+- pyplot
+- naive_bayes
+- model_selection
+- feature_extraction
+
+
+Division of Labor:
+
+ 
+Daniel
+- Task 1: Load Data
+- Task 3: Train Multinomial Naive Bayes Classifier
+
+Milan
+- 
+
+Alban
+- 
