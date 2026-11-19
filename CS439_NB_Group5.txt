@@ -20,7 +20,7 @@ Daniel
 - Task 3: Train Multinomial Naive Bayes Classifier
 
 Milan
-- 
+- Task 2: Preprocessing (2.1 Split Data, 2.2 Vectorize Text Data)
 
 Alban
 - 
