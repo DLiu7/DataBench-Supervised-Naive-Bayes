@@ -23,4 +23,4 @@ Milan
 - Task 2: Preprocessing (2.1 Split Data, 2.2 Vectorize Text Data)
 
 Alban
-- 
+- Task 4: Evaluate Model Performance (4.1,4.2,4.3)
